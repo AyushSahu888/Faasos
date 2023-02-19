@@ -83,6 +83,5 @@ select * from rolls_recipes;
 
 -- A roll metrics
 -- B driver and customer experience
--- C Ingredients optimization
--- D Pricing and ratings
+
 
